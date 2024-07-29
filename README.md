@@ -144,14 +144,14 @@ npm install npm@latest -g
 
 ## 프로젝트 관련 URL
 - GitHub Repository
- - (https://github.com/GeonHwiAhn/ImageDiary)
+(https://github.com/GeonHwiAhn/ImageDiary)
 
-- Notion 페이지
- - (https://gossamer-coat-559.notion.site/coddingCoggies-1694d46b6cf4441bb9ef97e49f71879d?pvs=25)
+- (Notion 페이지)
+(https://gossamer-coat-559.notion.site/coddingCoggies-1694d46b6cf4441bb9ef97e49f71879d?pvs=25)
 
 
 - Figma
- -(https://www.figma.com/design/iWyq7MIhYr8V3atuu3gIRy/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_%EC%BD%94%EB%94%A9%EC%BD%94%EA%B8%B0%EC%8A%A4?node-id=0-1&t=oxSF4Sx4gg0287gD-0)
+ (https://www.figma.com/design/iWyq7MIhYr8V3atuu3gIRy/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84_%EC%BD%94%EB%94%A9%EC%BD%94%EA%B8%B0%EC%8A%A4?node-id=0-1&t=oxSF4Sx4gg0287gD-0)
 
 
 
